@@ -1,0 +1,21 @@
+body {
+    max-width: 900px;
+    margin:0 ;
+}
+.big-img {
+    width: 900px;
+    height: 300px;
+}
+.small-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+p {
+    width: 100%;
+}
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: purple;
+}
